@@ -11,6 +11,7 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
+
 ## GitHub Stats
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,vue,ruby,php,python)](https://skillicons.dev)
