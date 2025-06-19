@@ -3,7 +3,6 @@
 
 •I am a data analyst and software engineer from Honduras 🇭🇳
 
-•
 ## Badges
 
 
