@@ -1,4 +1,5 @@
-![CF310BBE-9847-45CF-979F-09415BFB4340](https://github.com/user-attachments/assets/d89bb0fe-61a4-4e2a-8056-ba48ffa10e96)
+![9514D046-C948-49CE-BE58-1DDF865066E7](https://github.com/user-attachments/assets/bd90a6f5-411a-44cb-b174-20f7ec8c558e)
+
 
 # Hey, I'm César!
 
