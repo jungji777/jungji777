@@ -17,7 +17,7 @@
 
 ## GitHub Stats
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,vue,ruby,php,mysql,python,aws,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,vue,ruby,php,mysql,python,aws,Next.js,)](https://skillicons.dev)
 
 
 
